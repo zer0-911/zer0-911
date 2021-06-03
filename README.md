@@ -2,6 +2,6 @@
 - I’m interested in AI
 - I’m currently learning in Institute of Technology
 - I’m looking to collaborate on anything
-- How to reach me --->>> zilo52877@gmail.com HIYAHIYA
+- How to reach me --->>> mohiqbalf5@gmail.com HIYAHIYA
 
 SALAM SALAM SALAM
