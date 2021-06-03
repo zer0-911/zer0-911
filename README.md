@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/aftereffects.svg" alt="after effect" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://en.wikipedia.org/wiki/Adobe_Photoshop#/media/File:Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="canva" width="40" height="40"/> </a> 
 </p>
 
