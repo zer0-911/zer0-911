@@ -10,7 +10,7 @@
 
 <h3 align="left">Social Media👻👻👻:</h3>
 <p align="left">
-<a href="https://instagram.com/iqbal_911" target="_blank"><img align="center" src="<a href="https://www.searchpng.com/download-png/?imageid=4120" alt="iqbal_911"width="200" /></a>
+<a href="https://instagram.com/iqbal_911" target="_blank"><img align="center" src="<a href="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="iqbal_911"width="200" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
