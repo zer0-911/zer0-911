@@ -23,7 +23,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="canva" width="40" height="40"/> </a> 
+<a href="https://www.canva.com/" target="_blank"> <img src="https://static.canva.com/static/images/canva_logo_100x100@2x.png" alt="canva" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zer0-911&show_icons=true&locale=en&theme=nord" alt="zer0-911" height="150"/>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0-911&show_icons=true&locale=en&layout=compact&theme=nord" alt="zer0-911" height="150" /></p>
