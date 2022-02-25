@@ -26,7 +26,7 @@
 <a href="https://www.canva.com/" target="_blank"> <img src="https://static.canva.com/static/images/canva_logo_100x100@2x.png" alt="canva" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zer0-911&show_icons=true&locale=en&theme=nord" alt="zer0-911" height="125"/>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0-911&show_icons=true&locale=en&layout=compact&theme=nord" alt="zer0-911" height="150" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zer0-911&show_icons=true&locale=en&theme=nord" alt="zer0-911" height="125"/>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0-911&show_icons=true&locale=en&layout=compact&theme=nord" alt="zer0-911" height="125" /></p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zer0-911&&style=flat-square" align="center" />
