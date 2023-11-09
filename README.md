@@ -1,12 +1,10 @@
-<img align="right" src="https://media.giphy.com/media/9mH5k7ZiXkjtNEQTMU/giphy.gif" height="300">
+<img align="right" src="img/thisisme.gif" height="300">
 
 - **Hi there!! 👋**
-
 
 - 💻 I’m currently studying at **Computer Engineering, Sepuluh Nopember Institute Of Technology**
 
 - 📫 Reach me via **mohiqbalf5@gmail.com**
-
 
 <h3 align="left">Social Media👻👻👻:</h3>
 <p align="left">
@@ -30,4 +28,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zer0-911&&style=flat-square" align="center" />
-</div>  
+</div>
