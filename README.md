@@ -2,7 +2,7 @@
 
 - **Hi there!! 👋**
 
-- 💻 I’m currently studying at **Computer Engineering, Sepuluh Nopember Institute Of Technology**
+- 💻 I am a recent graduate with a degree in Computer Engineering from Sepuluh Nopember Institute of Technology
 
 - 📫 Reach me via **mohiqbalf5@gmail.com**
 
